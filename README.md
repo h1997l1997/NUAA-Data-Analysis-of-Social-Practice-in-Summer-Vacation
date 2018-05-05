@@ -27,3 +27,14 @@ pyecharts
 3.对获得的城市信息进行分析和筛选，获得相应的次数。  
 4.绘制图表。  
 5.对项目名称进行词频分析构建词云。
+
+#### 数据结果
+![](https://github.com/h1997l1997/NUAA-Data-Analysis-of-Social-Practice-in-Summer-Vacation/blob/master/show_Chinese.png)
+
+![](https://github.com/h1997l1997/NUAA-Data-Analysis-of-Social-Practice-in-Summer-Vacation/blob/master/h5.png)     
+
+也可以访问http://45.77.211.235/a.html  来查阅相关数据。
+
+
+
+#### 欢迎关注本项目并且关注我的Github账户
